@@ -1,6 +1,8 @@
 using Xunit;
 using System.Collections.Generic;
 using System;
+using Pingpong.Objects;
+
 namespace Pingpong
 {
   public class PingpongTest
